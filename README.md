@@ -1,19 +1,6 @@
 # Adidas-Sales-Analysis
 
 # 📊 Operational & Revenue Analytics Dashboard (Power BI)
-
-## Overview
-
-This project presents a **comprehensive Operational and Revenue Analytics Dashboard** developed using **Power BI**, designed to provide actionable insights into business performance across different sales categories and time periods.
-
-The dashboard enables stakeholders to evaluate **revenue performance, operational margins, product category performance, and sales distribution trends** through a visually interactive interface.
-
-To ensure data integrity and consistency, **Microsoft Excel was used for data preprocessing and cleaning**, after which the dataset was imported into **Power BI** for advanced analysis and visualization.
-
-The primary goal of this dashboard is to transform raw business data into **strategic intelligence that supports data-driven decision-making**, enabling organizations to identify profitable categories, understand seasonal trends, and optimize operational strategies.
-
----
-
 ## 📑 Table of Contents
 
 - [Overview](#overview)
@@ -32,6 +19,18 @@ The primary goal of this dashboard is to transform raw business data into **stra
 - [How to Use the Project](#how-to-use-the-project)
 - [Future Improvements](#future-improvements)
 - [Learning Outcomes](#learning-outcomes)
+---
+
+## Overview
+
+This project presents a **comprehensive Operational and Revenue Analytics Dashboard** developed using **Power BI**, designed to provide actionable insights into business performance across different sales categories and time periods.
+
+The dashboard enables stakeholders to evaluate **revenue performance, operational margins, product category performance, and sales distribution trends** through a visually interactive interface.
+
+To ensure data integrity and consistency, **Microsoft Excel was used for data preprocessing and cleaning**, after which the dataset was imported into **Power BI** for advanced analysis and visualization.
+
+The primary goal of this dashboard is to transform raw business data into **strategic intelligence that supports data-driven decision-making**, enabling organizations to identify profitable categories, understand seasonal trends, and optimize operational strategies.
+
 ---
 
 # 🧰 Tools and Technologies
